@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "妄想DRIVER(2022 Ver.)",
+  "base_artist": "SAKANAMON",
+  "createdAt": "2026-02-07T08:55:56.022247Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "妄想DRIVER (2022 Ver.)",
+      "artist": "SAKANAMON",
+      "has_synced": false,
+      "path": "select/pl_01_妄想DRIVER_(2022_Ver.)_SAKANAMON.txt"
+    }
+  ]
+}
